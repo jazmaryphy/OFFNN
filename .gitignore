@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data and Logs
+data/
+todo_*.txt
+*.csv
+*.npy
+*.ipynb
+.ipynb_checkpoints/
+
